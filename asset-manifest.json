@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.js": "/shopping-app/static/js/main.c0a43d3a.chunk.js",
+    "main.js.map": "/shopping-app/static/js/main.c0a43d3a.chunk.js.map",
+    "runtime-main.js": "/shopping-app/static/js/runtime-main.3e77fe51.js",
+    "runtime-main.js.map": "/shopping-app/static/js/runtime-main.3e77fe51.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/shopping-app/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e9634fa2.chunk.js": "/shopping-app/static/js/2.e9634fa2.chunk.js",
+    "static/js/2.e9634fa2.chunk.js.map": "/shopping-app/static/js/2.e9634fa2.chunk.js.map",
+    "index.html": "/shopping-app/index.html",
+    "precache-manifest.69df85ec4960ca2da3c37e2366033594.js": "/shopping-app/precache-manifest.69df85ec4960ca2da3c37e2366033594.js",
+    "service-worker.js": "/shopping-app/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/shopping-app/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.e9634fa2.chunk.js.LICENSE.txt": "/shopping-app/static/js/2.e9634fa2.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/shopping-app/static/media/1.1f73dc17.jpg",
+    "static/media/10.jpg": "/shopping-app/static/media/10.62a8e571.jpg",
+    "static/media/11.jpg": "/shopping-app/static/media/11.03265c29.jpg",
+    "static/media/12.jpg": "/shopping-app/static/media/12.ed2b0b1f.jpg",
+    "static/media/13.jpg": "/shopping-app/static/media/13.d9c16892.jpg",
+    "static/media/2.jpg": "/shopping-app/static/media/2.76516118.jpg",
+    "static/media/3.jpg": "/shopping-app/static/media/3.cf166342.jpg",
+    "static/media/4.jpg": "/shopping-app/static/media/4.471effd6.jpg",
+    "static/media/5.jpg": "/shopping-app/static/media/5.3adf5015.jpg",
+    "static/media/6.jpg": "/shopping-app/static/media/6.327427ea.jpg",
+    "static/media/7.jpg": "/shopping-app/static/media/7.bcb98e54.jpg",
+    "static/media/8.jpg": "/shopping-app/static/media/8.f2493f4a.jpg",
+    "static/media/9.jpg": "/shopping-app/static/media/9.9d8431f2.jpg",
+    "static/media/darkChoc.jpg": "/shopping-app/static/media/darkChoc.4849210a.jpg",
+    "static/media/milkChoc.jpg": "/shopping-app/static/media/milkChoc.08322ab1.jpg",
+    "static/media/nuts.jpg": "/shopping-app/static/media/nuts.a2b85581.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e77fe51.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e9634fa2.chunk.js",
+    "static/js/main.c0a43d3a.chunk.js"
+  ]
+}
