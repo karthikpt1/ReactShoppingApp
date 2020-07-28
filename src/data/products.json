@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Dark Choc 1",
+      "value": 0,
+      "price": 100,
+      "amount": 0,
+      "category": "dark",
+      "image": 1
+    },
+    {
+      "id": 2,
+      "name": "Dark Choc 2",
+      "value": 0,
+      "price": 20,
+      "amount": 0,
+      "category": "dark",
+      "image": 2
+    },
+    {
+      "id": 3,
+      "name": "Dark Choc 3",
+      "value": 0,
+      "price": 30,
+      "amount": 0,
+      "category": "dark",
+      "image": 3
+    },
+    {
+      "id": 4,
+      "name": "Dark Choc 4",
+      "value": 0,
+      "price": 40,
+      "amount": 0,
+      "category": "dark",
+      "image": 4
+    },
+    {
+      "id": 5,
+      "name": "Dark Choc 5",
+      "value": 0,
+      "price": 50,
+      "amount": 0,
+      "category": "dark",
+      "image": 5
+    },
+    {
+      "id": 6,
+      "name": "Milk Choc 1",
+      "value": 0,
+      "price": 10,
+      "amount": 0,
+      "category": "milk",
+      "image": 6
+    },
+    {
+      "id": 7,
+      "name": "Milk Choc 2",
+      "value": 0,
+      "price": 20,
+      "amount": 0,
+      "category": "milk",
+      "image": 7
+    },
+    {
+      "id": 8,
+      "name": "Milk Choc 3",
+      "value": 0,
+      "price": 30,
+      "amount": 0,
+      "category": "milk",
+      "image": 8
+    },
+    {
+      "id": 9,
+      "name": "Milk Choc 4",
+      "value": 0,
+      "price": 40,
+      "amount": 0,
+      "category": "milk",
+      "image": 9
+    },
+    {
+      "id": 10,
+      "name": "Milk Choc 5",
+      "value": 0,
+      "price": 50,
+      "amount": 0,
+      "category": "milk",
+      "image": 10
+    },
+    {
+      "id": 11,
+      "name": "Pistachos",
+      "value": 0,
+      "price": 30,
+      "amount": 0,
+      "category": "nuts",
+      "image": 11
+    },
+    {
+      "id": 12,
+      "name": "Walnut",
+      "value": 0,
+      "price": 40,
+      "amount": 0,
+      "category": "nuts",
+      "image": 12
+    },
+    {
+      "id": 13,
+      "name": "Badam",
+      "value": 0,
+      "price": 50,
+      "amount": 0,
+      "category": "nuts",
+      "image": 13
+    }
+  ]
+}
